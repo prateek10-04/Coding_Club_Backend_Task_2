@@ -1,0 +1,7 @@
+{
+    "env":
+    {
+        "MONGO_PWD":"Babaji_10",
+        "JWT_KEY":"secret"
+    }
+}
